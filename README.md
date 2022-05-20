@@ -2,7 +2,7 @@
 
 #### I'm a Frontend Web Developer with a focus on React framework and currently learning TypeScript and Redux.
 
-[![Jim's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Jim's GitHub stats](https://github-readme-stats.vercel.app/api?username=jimlim14)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **jimlim14/jimlim14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
