@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Frontend Web Developer with a focus on React framework and currently learning TypeScript and Redux.
+#### I'm a Fullstack Web Developer with a focus on React framework and currently learning NextJs with TypeScript and Prisma ORM.
 
 [![Jim's GitHub stats](https://github-readme-stats.vercel.app/api?username=jimlim14)](https://github.com/anuraghazra/github-readme-stats)
 
